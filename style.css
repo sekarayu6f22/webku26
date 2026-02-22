@@ -1,7 +1,16 @@
-body
+body{
+    background:#FCA3B7;
+    color:#FCA3B7;
+    width:100%;
+    font-family:sans-serif;
+    margin:0 auto;
+}
 
-{
-
- color backround:blue;
-
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#F26B8A
+    color:fff;
 }
